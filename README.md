@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kaleb 👋
 
-<!--
-**Kaleb0719/Kaleb0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business graduate from Taiwan exploring quantitative finance and financial markets.
 
-Here are some ideas to get you started:
+I'm currently pursuing graduate studies in Digital & Sustainable Finance while learning more about financial markets, data analysis, and research methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub documents my research projects and learning journey.
+
+## Current Interests
+- Financial Markets
+- Quantitative Finance
+- Market Microstructure
+- Financial Data Analysis
+- Python
+
+## Current Projects
+
+- Quant Alpha Validation Framework
+- Binance Funding Timestamp Event Study
+- Retail Funding Arbitrage Research
+
+## Currently Learning
+
+- Python
+- Financial Data Analysis
+- Market Microstructure
+- Systematic Trading Research
+
+## Long-Term Goal
+
+Build reliable financial research before building systematic trading strategies.
+
+Still learning, one project at a time.
