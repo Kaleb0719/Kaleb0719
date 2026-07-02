@@ -14,20 +14,18 @@ This GitHub documents my research projects and learning journey.
 - Python
 
 ## Current Projects
-
+- Funding Decision Observatory
 - Quant Alpha Validation Framework
 - Binance Funding Timestamp Event Study
 - Retail Funding Arbitrage Research
 
 ## Currently Learning
-
 - Python
 - Financial Data Analysis
 - Market Microstructure
 - Systematic Trading Research
 
 ## Long-Term Goal
-
 Build reliable financial research before building systematic trading strategies.
 
 Still learning, one project at a time.
